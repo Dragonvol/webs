@@ -1,2 +1,2 @@
-# stronki
-robie swoje pierwsze stronki
+# webs
+bartek-web
