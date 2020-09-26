@@ -25,6 +25,10 @@ p {
     transition: all 500ms;
 }
 
+#youtube {
+    display: none;
+}
+
 @keyframes text {
     0% {
         color: white;
